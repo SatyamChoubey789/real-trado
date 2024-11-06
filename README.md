@@ -10,7 +10,7 @@ Real Trado DApp - A Decentralized Application for Real Estate Trading based on A
 
 -> A modular system design approach is taken to create and test the DApp.
 
-<img src="https://img.shields.io/badge/Contributors-3-violet">
+
 
 
 
